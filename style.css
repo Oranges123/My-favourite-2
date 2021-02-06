@@ -1,0 +1,20 @@
+body {
+  color: black;
+  text-align:center;
+  font-family: verdana;
+  background-color: blueviolet;
+ 
+}
+h8{
+text-decoration-color: darkred;    
+}
+
+
+img {
+  width: 500px;
+  margin: 25px;
+  height: 500px;
+}
+title{
+    text-align: center
+}
